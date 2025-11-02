@@ -1,4 +1,3 @@
-```markdown
 # AgeWire - Age Verification Module for ProcessWire
 
 A modern, customizable age verification module for ProcessWire CMS with Tailwind CSS support and multiple themes.
@@ -312,4 +311,3 @@ If you find this module useful, please give it a star!
 ---
 
 **Made with ❤️ for ProcessWire Community**
-```
