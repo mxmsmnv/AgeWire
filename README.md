@@ -2,6 +2,10 @@
 
 A customizable age verification module for ProcessWire CMS. Supports four CSS frameworks, multiple themes, date picker mode, CSRF protection, and a two-column admin interface.
 
+**Author:** Maxim Semenov  
+**Website:** [smnv.org](https://smnv.org)  
+**Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
+
 If this project helps your work, consider supporting future development: [GitHub Sponsors](https://github.com/sponsors/mxmsmnv) or [smnv.org/sponsor](https://smnv.org/sponsor/).  
 
 ## Features
@@ -189,7 +193,7 @@ Provided "as is" without warranty of any kind. Use at your own risk.
 
 ## Author
 
-Maxim Alex
+Maxim Semenov
 
 ## Contributing
 
